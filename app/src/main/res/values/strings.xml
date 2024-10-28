@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_010</string>
+    <string name="toBegin">Return</string>
+    <string name="exit">Exit</string>
+</resources>
